@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/AluraPet_api.props" />
+</Project>
